@@ -2,5 +2,5 @@
 layout: page
 ---
 
-<h1>Rubize survey</h1>
+<h1>Rubize survey home</h1>
 
