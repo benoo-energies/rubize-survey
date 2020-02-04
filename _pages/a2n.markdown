@@ -14,7 +14,7 @@ logo: a2n.png
     <div class="card h-100">
       <div class="card-body">
         <h4 class="card-title">Villages</h4>
-        <p class="card-text text-secondary">Tableau de bord pour visualiser les informations générales sur les villages enquêtés.</p>
+        <p class="card-text text-secondary">Tableau de bord pour visualiser les données générales sur les villages enquêtés.</p>
         <a href="{{site.baseurl}}/A2N/33042000001596869" class="btn btn-primary">Dashboard villages</a>
       </div>
     </div>
@@ -24,7 +24,7 @@ logo: a2n.png
     <div class="card h-100">
       <div class="card-body">
         <h4 class="card-title">Activités</h4>
-        <p class="card-text text-secondary">Tableau de bord pour visualiser les informations détaillées sur les activités enquêtées.</p>
+        <p class="card-text text-secondary">Tableau de bord pour visualiser les données détaillées sur les activités enquêtées.</p>
         <a href="{{site.baseurl}}/A2N/33042000001648835" class="btn btn-primary">Dashboard activités</a>
       </div>
     </div>
