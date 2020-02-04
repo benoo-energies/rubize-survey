@@ -1,9 +1,9 @@
 ---
 layout: dashboard
-title: Dashboard Villages
+title: Dashboard Activités
 organization: A2N
-id: 33042000001596869
-permalink: /A2N/33042000001596869/
+id: 33042000001648835
+permalink: /A2N/33042000001648835/
 logo: a2n.png
 ---
 
