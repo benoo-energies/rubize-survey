@@ -21,7 +21,7 @@
 title: Rubize survey
 email: contact@benoo-energies.com
 description: >- # this means to ignore newlines until "baseurl:"
-  L'application pour collecter des données terrain et automatiser leur traitement.
+  L'application pour simplifier vos études terrain.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://survey.rubize.io" # the base hostname & protocol for your site, e.g. http://example.com
 
