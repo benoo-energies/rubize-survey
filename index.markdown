@@ -26,7 +26,7 @@ title:  Rubize Survey
     class="typeform-share button"
     href="https://contact243679.typeform.com/to/XFZf0q"
     data-mode="popup"
-    style="display:inline-block;text-decoration:none;background-color:#00BC92;color:white;cursor:pointer;font-family:'Open Sans','Helvetica',sans-serif;font-size:16px;line-height:40px;text-align:center;margin:0;height:40px;padding:0px 26px;border-radius:2px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:400;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;"
+    style="display:inline-block;text-decoration:none;background-color:#00BC92;color:white;cursor:pointer;font-family:'Open Sans','Helvetica',sans-serif;font-size:16px;line-height:40px;text-align:center;margin:0;height:40px;padding:0px 26px;border-radius:2px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:400;-moz-osx-font-smoothing:grayscale;"
     data-submit-close-delay="0"
     target="_blank">
   Demandez des informations
