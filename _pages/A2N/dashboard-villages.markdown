@@ -1,9 +1,9 @@
 ---
 layout: dashboard
 title: Dashboard Villages
-organization: A2N
+organization: db4ecccd95c9fee854361414122a155568309382
 id: 33042000001596869
-permalink: /A2N/33042000001596869/
+permalink: /db4ecccd95c9fee854361414122a155568309382/dashboard-villages/
 logo: a2n.png
 ---
 

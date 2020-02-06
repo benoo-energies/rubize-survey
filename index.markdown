@@ -21,12 +21,16 @@ title:  Rubize Survey
   </p>
 </div>
 
-<div class="py-4">
+<div class="d-flex flex-wrap py-4">
+  <button type="button" class="btn btn-primary mb-2 mr-3" data-toggle="modal" data-target="#loginbox">
+    Accéder à votre espace
+  </button>
   <a
     class="typeform-share button"
     href="https://contact243679.typeform.com/to/XFZf0q"
     data-mode="popup"
-    style="display:inline-block;text-decoration:none;background-color:#00BC92;color:white;cursor:pointer;font-family:'Open Sans','Helvetica',sans-serif;font-size:16px;line-height:40px;text-align:center;margin:0;height:40px;padding:0px 26px;border-radius:2px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:400;-moz-osx-font-smoothing:grayscale;"
+    type="button"
+    style="display:inline-block;text-decoration:none;background-color:transparent;color:#6C757D;cursor:pointer;font-family:'Open Sans','Helvetica',sans-serif;font-size:16px;line-height:38px;text-align:center;margin:0;height:38px;padding:0px 15px;border-color:#6C757D;border-width:1px;border-style:solid;border-radius:2px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:400;-moz-osx-font-smoothing:grayscale;"
     data-submit-close-delay="0"
     target="_blank">
   Demandez des informations
@@ -34,5 +38,31 @@ title:  Rubize Survey
   <script>
     (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })()
   </script>
+</div>
+
+<div class="modal" id="loginbox" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Accéder à votre espace</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>Saisissez le mot de passe communiqué pour accéder à votre espace Rubize Survey.</p>
+        <div class="input-group mt-4 mb-3">
+          <div class="input-group-prepend">
+            <span class="input-group-text" id="basic-addon1"><i class="fas fa-lock"></i></span>
+          </div>
+          <input class="form-control" id="password" type="password" placeholder="mot de passe">
+        </div>
+        <div class="py-3">
+          <button id="loginbutton" type="button" class="btn btn-primary btn-block">Entrer</button>
+        </div>
+        <p id="wrongPassword" style="display: none">wrong password</p>
+      </div>
+    </div>
+  </div>
 </div>
 

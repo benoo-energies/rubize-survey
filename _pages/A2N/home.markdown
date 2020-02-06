@@ -1,7 +1,8 @@
 ---
 layout: page
-title:  Rubize Survey ✌️ A2N
-permalink: /A2N/
+title: Rubize Survey ✌️ A2N
+organization: db4ecccd95c9fee854361414122a155568309382
+permalink: /db4ecccd95c9fee854361414122a155568309382/
 logo: a2n.png
 ---
 
@@ -15,7 +16,7 @@ logo: a2n.png
       <div class="card-body">
         <h4 class="card-title">Villages</h4>
         <p class="card-text text-secondary">Tableau de bord pour visualiser les données collectées sur les villages enquêtés.</p>
-        <a href="{{site.baseurl}}/A2N/33042000001596869" class="btn btn-primary">Dashboard villages</a>
+        <a href="{{site.baseurl}}{{page.permalink}}dashboard-villages" class="btn btn-primary">Dashboard villages</a>
       </div>
     </div>
   </div>
@@ -25,7 +26,7 @@ logo: a2n.png
       <div class="card-body">
         <h4 class="card-title">Activités</h4>
         <p class="card-text text-secondary">Tableau de bord pour visualiser les données collectées sur les activités enquêtées.</p>
-        <a href="{{site.baseurl}}/A2N/33042000001648835" class="btn btn-primary">Dashboard activités</a>
+        <a href="{{site.baseurl}}{{page.permalink}}dashboard-activity" class="btn btn-primary">Dashboard activités</a>
       </div>
     </div>
   </div>
