@@ -29,7 +29,6 @@ title:  Rubize Survey
     class="typeform-share button btn btn-outline-secondary mb-3"
     href="https://contact243679.typeform.com/to/XFZf0q"
     data-mode="popup"
-    type="button"
     data-submit-close-delay="0"
     target="_blank"
     >
