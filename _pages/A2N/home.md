@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Rubize Survey ✌️ A2N
-organization: db4ecccd95c9fee854361414122a155568309382
-permalink: /db4ecccd95c9fee854361414122a155568309382/
+title: Rubize Survey 🔎 A2N
+encryption: db4ecccd95c9fee854361414122a155568309382
 logo: a2n.png
+permalink: /db4ecccd95c9fee854361414122a155568309382/
 ---
 
 <h1>{{ page.title }}</h1>

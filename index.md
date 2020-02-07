@@ -22,18 +22,18 @@ title:  Rubize Survey
 </div>
 
 <div class="d-flex flex-wrap py-4">
-  <button type="button" class="btn btn-primary mb-2 mr-3" data-toggle="modal" data-target="#loginbox">
+  <button type="button" class="btn btn-primary mb-3 mr-3" data-toggle="modal" data-target="#loginbox">
     Accéder à votre espace
   </button>
   <a
-    class="typeform-share button"
+    class="typeform-share button btn btn-outline-secondary mb-3"
     href="https://contact243679.typeform.com/to/XFZf0q"
     data-mode="popup"
     type="button"
-    style="display:inline-block;text-decoration:none;background-color:transparent;color:#6C757D;cursor:pointer;font-family:'Open Sans','Helvetica',sans-serif;font-size:16px;line-height:38px;text-align:center;margin:0;height:38px;padding:0px 15px;border-color:#6C757D;border-width:1px;border-style:solid;border-radius:2px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:400;-moz-osx-font-smoothing:grayscale;"
     data-submit-close-delay="0"
-    target="_blank">
-  Demandez des informations
+    target="_blank"
+    >
+    Nous contacter
   </a>
   <script>
     (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })()

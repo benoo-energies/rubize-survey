@@ -1,21 +1,13 @@
-{% if page.title == "Rubize Survey" %}
+<div class="navbar navbar-expand-sm navbar-light bg-white d-flex justify-content-between">
 
-  <div class="navbar navbar-expand-sm navbar-light bg-white d-flex justify-content-center">
-    <a href="{{ site.url }}">
-      <img src="/assets/img/rubize-survey.png" alt="Rubize Survey" height="40px">
+  <a href="{{ site.url }}" class="navbar-brand mr-0">
+    <img src="/assets/img/rubize-survey.png" alt="Rubize Survey" height="40px">
+  </a>
+
+  {% if page.logo %}
+    <a href="{{ site.url }}/{{ page.encryption }}" class="navbar-brand mr-0">
+      <img src="/assets/img/{{ page.logo }}" alt="{{page.logo}}" height="40px">
     </a>
-  </div>
+  {% endif %}
 
-{% else %}
-
-  <div class="navbar navbar-expand-sm navbar-light bg-white d-flex justify-content-center">
-    <a href="{{ site.url }}">
-      <img src="/assets/img/rubize-survey.png" alt="Rubize Survey" height="40px">
-    </a>
-    <div class="mx-3 lead">x</div>
-    <a href="{{ site.url }}{{ page.permalink }}">
-      <img src="/assets/img/{{ page.logo }}" alt="{{page.title}}" height="40px">
-    </a>
-  </div>
-
-{% endif %}
+</div>
