@@ -12,7 +12,7 @@ title:  Rubize Survey
     Conduisez vos enquêtes terrain en <strong class="text-warning">collectant des données</strong> via application mobile hors-ligne.
   </p>
   <p class="font-weight-light">
-    <span class="mr-2">⚙</span>
+    <span class="mr-2">🗂</span>
     Automatiser <strong class="text-warning">le traitement et le stockage</strong> de vos données.
   </p>
   <p class="font-weight-light">
