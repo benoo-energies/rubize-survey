@@ -22,17 +22,17 @@ title:  Rubize Survey
 </div>
 
 <div class="d-flex flex-wrap py-4">
-  <button type="button" class="btn btn-primary mb-3 mr-3" data-toggle="modal" data-target="#loginbox">
-    Accéder à votre espace
+  <button type="button" class="btn btn-primary mb-3 mr-3 py-2 px-3" data-toggle="modal" data-target="#loginbox">
+    Accéder à vos enquêtes
   </button>
   <a
-    class="typeform-share button btn btn-outline-secondary mb-3"
+    class="typeform-share button btn btn-outline-secondary mb-3 py-2 px-3"
     href="https://contact243679.typeform.com/to/XFZf0q"
     data-mode="popup"
     data-submit-close-delay="0"
     target="_blank"
     >
-    Nous contacter
+    Demander une démo
   </a>
   <script>
     (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })()
@@ -43,7 +43,7 @@ title:  Rubize Survey
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Accéder à votre espace</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Accéder à vos enquêtes</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -57,7 +57,7 @@ title:  Rubize Survey
           <input class="form-control" id="password" type="password" placeholder="mot de passe">
         </div>
         <div class="py-3">
-          <button id="loginbutton" type="button" class="btn btn-primary btn-block">Entrer</button>
+          <button id="loginbutton" type="button" class="btn btn-primary btn-block">Accéder</button>
         </div>
         <p id="wrongPassword" style="display: none">wrong password</p>
       </div>

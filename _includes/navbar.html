@@ -8,6 +8,12 @@
     <a href="{{ site.url }}/{{ page.encryption }}" class="navbar-brand mr-0">
       <img src="/assets/img/{{ page.logo }}" alt="{{page.logo}}" height="40px">
     </a>
+
+  {% else %}
+    <button type="button" class="btn btn-primary d-none d-sm-inline" data-toggle="modal" data-target="#loginbox">
+      Accéder à vos enquêtes
+    </button>
   {% endif %}
+
 
 </div>
