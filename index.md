@@ -3,7 +3,7 @@ layout: page
 title:  Rubize Survey
 ---
 
-<h1>{{ page.title }}</h1>
+<h1>{{ page.title }} hello</h1>
 <h5 class="font-weight-light text-secondary">{{ site.description }}</h5>
 
 <div class="pt-4">
