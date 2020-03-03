@@ -11,7 +11,7 @@ permalink: /de4a1c9bd29449b37875543f6ba4bca9959516ab/
 
 <div class="row mt-5">
 
-  <div class="col-12 col-sm-4">
+  <div class="col-12 col-sm-6">
     <div class="card h-100">
       <div class="card-body">
         <h4 class="card-title">Technique</h4>
@@ -21,7 +21,7 @@ permalink: /de4a1c9bd29449b37875543f6ba4bca9959516ab/
     </div>
   </div>
 
-  <div class="col-12 col-sm-4">
+  <div class="col-12 col-sm-6">
     <div class="card h-100">
       <div class="card-body">
         <h4 class="card-title">Commerciale</h4>
