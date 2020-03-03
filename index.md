@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Rubize Survey
+title:  Rubize Survey test
 ---
 
 <h1>{{ page.title }}</h1>
