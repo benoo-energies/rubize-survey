@@ -30,5 +30,15 @@ permalink: /782f9b10621e362d5bd0def3a279b5e0908c9ebb/
       </div>
     </div>
   </div>
+  
+   <div class="col-12 col-sm-6">
+    <div class="card h-100">
+      <div class="card-body">
+        <h4 class="card-title">Test</h4>
+        <p class="card-text text-secondary">Tableau de bord pour visualiser les données collectées test.</p>
+        <a href="{{site.baseurl}}{{page.permalink}}dashboard-activity" class="btn btn-primary">Dashboard activités</a>
+      </div>
+    </div>
+  </div>
 
 </div>
