@@ -16,7 +16,7 @@ permalink: /de4a1c9bd29449b37875543f6ba4bca9959516ab/
       <div class="card-body">
         <h4 class="card-title">Agence Hahomegbe</h4>
         <p class="card-text text-secondary">Tableau de bord pour visualiser les données de consommation.</p>
-        <a href="{{site.baseurl}}{{page.permalink}}dashboard-villages" class="btn btn-primary">Dashboard villages</a>
+        <a href="{{site.baseurl}}{{page.permalink}}dashboard-hahomegbe" class="btn btn-primary">Dashboard Hahomegbe</a>
       </div>
     </div>
   </div>
@@ -26,7 +26,7 @@ permalink: /de4a1c9bd29449b37875543f6ba4bca9959516ab/
       <div class="card-body">
         <h4 class="card-title">Agence Tetetou</h4>
         <p class="card-text text-secondary">Tableau de bord pour visualiser les données de consommation.</p>
-        <a href="{{site.baseurl}}{{page.permalink}}dashboard-activity" class="btn btn-primary">Dashboard activités</a>
+        <a href="{{site.baseurl}}{{page.permalink}}dashboard-tetetou" class="btn btn-primary">Dashboard Tetetou</a>
       </div>
     </div>
   </div>
