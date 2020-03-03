@@ -14,9 +14,9 @@ permalink: /de4a1c9bd29449b37875543f6ba4bca9959516ab/
   <div class="col-12 col-sm-4">
     <div class="card h-100">
       <div class="card-body">
-        <h4 class="card-title">Agence Hahomegbe</h4>
-        <p class="card-text text-secondary">Tableau de bord pour visualiser les données de consommation.</p>
-        <a href="{{site.baseurl}}{{page.permalink}}dashboard-hahomegbe" class="btn btn-primary">Dashboard Hahomegbe</a>
+        <h4 class="card-title">Technique</h4>
+        <p class="card-text text-secondary">Tableau de bord pour visualiser les données techniques.</p>
+        <a href="{{site.baseurl}}{{page.permalink}}dashboard-technique" class="btn btn-primary">Dashboard Technique</a>
       </div>
     </div>
   </div>
@@ -24,9 +24,9 @@ permalink: /de4a1c9bd29449b37875543f6ba4bca9959516ab/
   <div class="col-12 col-sm-4">
     <div class="card h-100">
       <div class="card-body">
-        <h4 class="card-title">Agence Tetetou</h4>
-        <p class="card-text text-secondary">Tableau de bord pour visualiser les données de consommation.</p>
-        <a href="{{site.baseurl}}{{page.permalink}}dashboard-tetetou" class="btn btn-primary">Dashboard Tetetou</a>
+        <h4 class="card-title">Commerciale</h4>
+        <p class="card-text text-secondary">Tableau de bord pour visualiser les données commerciales.</p>
+        <a href="{{site.baseurl}}{{page.permalink}}dashboard-commerciale" class="btn btn-primary">Dashboard Commerciale</a>
       </div>
     </div>
   </div>
