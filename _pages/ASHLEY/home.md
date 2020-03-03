@@ -11,7 +11,7 @@ permalink: /782f9b10621e362d5bd0def3a279b5e0908c9ebb/
 
 <div class="row mt-5">
 
-  <div class="col-12 col-sm-6">
+  <div class="col-12 col-sm-4">
     <div class="card h-100">
       <div class="card-body">
         <h4 class="card-title">Villages</h4>
@@ -21,7 +21,7 @@ permalink: /782f9b10621e362d5bd0def3a279b5e0908c9ebb/
     </div>
   </div>
 
-  <div class="col-12 col-sm-6">
+  <div class="col-12 col-sm-4">
     <div class="card h-100">
       <div class="card-body">
         <h4 class="card-title">Activités</h4>
@@ -31,7 +31,7 @@ permalink: /782f9b10621e362d5bd0def3a279b5e0908c9ebb/
     </div>
   </div>
   
-   <div class="col-12 col-sm-6">
+   <div class="col-12 col-sm-4">
     <div class="card h-100">
       <div class="card-body">
         <h4 class="card-title">Test</h4>
