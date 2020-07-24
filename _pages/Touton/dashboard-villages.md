@@ -1,8 +1,8 @@
 ---
 layout: dashboard
 title: Dashboard Villages
-encryption: db4ecccd95c9fee854361414122a155568309382
+encryption: d004d1d9629bce74dd87b0e65cce6bc688c34853
 logo: touton.png
 dashboard: 33042000002474245
-permalink: /db4ecccd95c9fee854361414122a155568309382/dashboard-villages/
----okok
+permalink: /d004d1d9629bce74dd87b0e65cce6bc688c34853/dashboard-villages/
+---
