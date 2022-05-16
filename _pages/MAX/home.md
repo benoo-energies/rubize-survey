@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Rubize Survey 🔎 AT2ER
-encryption: aaf4fdf9472bf84b1e97814f85e67c4fcbfb7be3
-logo: powercorner.png
-permalink: /aaf4fdf9472bf84b1e97814f85e67c4fcbfb7be3/
+title: Rubize Survey 🔎 MAX
+encryption: 22df49fbd0a44203fe74afb9f1e9bcaea63aa415
+logo: max.png
+permalink: /22df49fbd0a44203fe74afb9f1e9bcaea63aa415/
 ---
 
 <h1>{{ page.title }}</h1>
