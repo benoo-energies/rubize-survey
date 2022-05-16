@@ -14,7 +14,7 @@ permalink: /22df49fbd0a44203fe74afb9f1e9bcaea63aa415/
   <div class="col-12 col-sm-6">
     <div class="card h-100">
       <div class="card-body">
-        <h4 class="card-title">Villages</h4>
+        <h4 class="card-title">Enquête générale village</h4>
         <p class="card-text text-secondary">Tableau de bord pour visualiser les données collectées sur les villages enquêtés.</p>
         <a href="{{site.baseurl}}{{page.permalink}}dashboard-villages" class="btn btn-primary">Dashboard villages</a>
       </div>
